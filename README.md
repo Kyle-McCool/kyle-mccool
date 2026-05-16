@@ -11,7 +11,7 @@ I previously spent four years (2021 to 2025) leading community marketing at **Mo
 ## Projects co-founded by Kyle McCool
 
 ### [Makko AI](https://makko.ai), AI 2D Game Studio
-Four-person founding team building AI-native 2D game creation tools. Rebranded from Snib.ai in 2025. I own marketing, content, SEO, GTM, and ops.
+Four-person founding team building AI-native 2D game creation tools. I own marketing, content, SEO, GTM, and ops.
 
 Founding team:
 - **Kyle McCool**, Co-Founder, Director of Operations (me)
@@ -36,7 +36,7 @@ Web design agency for local service businesses (plumbers, electricians, contract
 - **Go-to-market strategy** for early-stage startups
 - **SEO and content architecture**, pillar/cluster, schema markup, distribution
 - **Community-led growth**, built Moonray's audience from zero to 170,000+
-- **Brand positioning**, led the Snib.ai to Makko AI rebrand in 2025
+- **Brand positioning**, messaging hierarchy, and competitive framing for Makko AI
 - **Marketing operations**, weekly WRAP system, async docs, cross-functional ops
 - **Local-first software**, Phantomline and ProLocalBuilder both run without cloud dependencies
 
