@@ -4,7 +4,7 @@
 
 **Personal site: [kylemccool.com](https://kylemccool.com)**
 
-I'm **Kyle McCool** (full name Kyle Anson McCool), Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I was one of two original builders of the Makko AI prototype, co-building it with Tony Valcarcel before the full founding team came together.
+I'm **Kyle McCool** (full name Kyle Anson McCool), Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I built the original Makko AI prototype on my own. Tony Valcarcel joined later to help me build it out before the full founding team came together.
 
 I previously spent four years (2021 to 2025) leading community marketing at **Moonray PBC**, where I contributed to the largest NFT mint in OpenSea history at 220,000 assets.
 
