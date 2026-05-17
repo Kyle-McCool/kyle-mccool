@@ -45,7 +45,7 @@ Web design agency for local service businesses (plumbers, electricians, contract
 | Where | Link |
 |---|---|
 | Canonical site | [kylemccool.com](https://kylemccool.com) |
-| Long-form profile | [phantomline.xyz/kyle-anson-mccool](https://phantomline.xyz/kyle-anson-mccool) |
+| Long-form profile | [phantomline.xyz/kyle-mccool](https://phantomline.xyz/kyle-mccool) |
 | Makko AI | [makko.ai](https://makko.ai) |
 | Phantomline | [phantomline.xyz](https://phantomline.xyz) |
 | ProLocalBuilder | [prolocalbuilder.com](https://prolocalbuilder.com) |
