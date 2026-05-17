@@ -4,7 +4,7 @@
 
 **Personal site: [kylemccool.com](https://kylemccool.com)**
 
-I'm **Kyle McCool** (full name Kyle Anson McCool), Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I built the early Makko AI prototype alone for about a month, then Tony Valcarcel joined and the two of us put in 12-hour shifts day and night until we had something strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+I'm **Kyle McCool**, Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I built the early Makko AI prototype alone for about a month, then Tony Valcarcel joined and the two of us put in 12-hour shifts day and night until we had something strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
 
 I previously spent four years (2021 to 2025) leading community marketing at **Moonray PBC**, where I contributed to the largest NFT mint in OpenSea history at 220,000 assets.
 
@@ -56,4 +56,4 @@ Web design agency for local service businesses (plumbers, electricians, contract
 
 ## Note on the name
 
-There are other people online named "Kyle McCool." This profile is for the Kyle McCool whose work appears under Makko AI, Phantomline, ProLocalBuilder, and Moonray, based in Appleton, Wisconsin. Full name: Kyle Anson McCool.
+Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person. This profile is for the Kyle McCool who co-founded Makko AI with Jeremy Bird, Tony Valcarcel, and Mike Fehlauer Hayes, and who co-founded Phantomline and ProLocalBuilder with Cesar Martinez and Zac Dillard.
