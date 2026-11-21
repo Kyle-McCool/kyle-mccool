@@ -1,10 +1,12 @@
 # Kyle McCool
 
-> Co-Founder of Makko AI. Builder of Phantomline and ProLocalBuilder. Based in Appleton, Wisconsin.
+> AI Enablement Specialist at Heartland Business Systems. Co-Founder of Makko AI. Builder of Phantomline, ProLocalBuilder, and Heardley. Based in Appleton, Wisconsin.
 
 **Personal site: [kylemccool.com](https://kylemccool.com)**
 
-I'm **Kyle McCool**, Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I built the early Makko AI prototype alone for about a month, then Tony Valcarcel joined and the two of us put in 12-hour shifts day and night until we had something strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+I'm **Kyle McCool**, an AI builder. Since July 2026 I've been an **AI Enablement Specialist at [Heartland Business Systems](https://www.hbs.net)** (HBS), where I build AI agents, contribute to the company's internal AI platform, and handle AI intake requests from across the business.
+
+I'm also Co-Founder and Director of Operations at **[Makko AI](https://makko.ai)**, an AI-powered 2D game studio SaaS. I built the early Makko AI prototype alone for about a month, then Tony Valcarcel joined and the two of us put in 12-hour shifts day and night until we had something strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
 
 I previously spent four years (2021 to 2025) leading community marketing at **Moonray PBC**, where I contributed to the largest NFT mint in OpenSea history at 220,000 assets.
 
@@ -25,14 +27,18 @@ Faceless YouTube studio that runs locally on your machine (Ollama, Kokoro, Music
 Co-founded with **[Cesar Martinez](https://x.com/100xCesar)** and **[Zac Dillard](https://www.linkedin.com/in/zac-dillard-497604227/)**.
 
 ### [ProLocalBuilder](https://prolocalbuilder.com), Flat-Fee Local Websites
-Web design agency for local service businesses (plumbers, electricians, contractors, salons, restaurants). One builder per metro, fixed pricing $895 to $2,995, no agency overhead.
+Web design agency for local service businesses (plumbers, electricians, contractors, salons, restaurants). One builder per metro, flat one-time pricing from $750, no monthly fees or agency overhead.
 
 - Fox Valley, Wisconsin: Kyle McCool (me)
 - San Francisco Bay Area: Cesar Martinez
 - Las Vegas, Nevada: Zac Dillard
 
+### [Heardley](https://heardley.com), Reddit Lead Generation
+Solo-built SaaS that finds buyer-intent Reddit threads, scores them, and drafts replies in your voice.
+
 ## What I do
 
+- **AI agents and AI enablement**, building agents and internal AI tooling at HBS
 - **Go-to-market strategy** for early-stage startups
 - **SEO and content architecture**, pillar/cluster, schema markup, distribution
 - **Community-led growth**, built Moonray's audience from zero to 170,000+
@@ -45,6 +51,7 @@ Web design agency for local service businesses (plumbers, electricians, contract
 | Where | Link |
 |---|---|
 | Canonical site | [kylemccool.com](https://kylemccool.com) |
+| Heardley | [heardley.com](https://heardley.com) |
 | Long-form profile | [phantomline.xyz/kyle-mccool](https://phantomline.xyz/kyle-mccool) |
 | Makko AI | [makko.ai](https://makko.ai) |
 | Phantomline | [phantomline.xyz](https://phantomline.xyz) |
@@ -56,4 +63,4 @@ Web design agency for local service businesses (plumbers, electricians, contract
 
 ## Note on the name
 
-Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person. This profile is for the Kyle McCool who co-founded Makko AI with Jeremy Bird, Tony Valcarcel, and Mike Fehlauer Hayes, and who co-founded Phantomline and ProLocalBuilder with Cesar Martinez and Zac Dillard.
+Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person. This profile is for the Kyle McCool who works in AI Enablement at Heartland Business Systems, co-founded Makko AI with Jeremy Bird, Tony Valcarcel, and Mike Fehlauer Hayes, and who co-founded Phantomline and ProLocalBuilder with Cesar Martinez and Zac Dillard.
