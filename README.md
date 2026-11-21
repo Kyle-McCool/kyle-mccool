@@ -59,7 +59,7 @@ Solo-built SaaS that finds buyer-intent Reddit threads, scores them, and drafts 
 | LinkedIn | [linkedin.com/in/kyle-m-34a550225](https://www.linkedin.com/in/kyle-m-34a550225/) |
 | Twitter / X | [@daculturedswine](https://twitter.com/daculturedswine) |
 | Product Hunt | [@kyle_mccool_makko_ai](https://www.producthunt.com/@kyle_mccool_makko_ai) |
-| Email | kyle@makko.ai |
+| Email | kyle.mc.marketing@gmail.com |
 
 ## Note on the name
 
